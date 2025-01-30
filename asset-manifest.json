@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gabriel265/kayce-tutoring/static/css/main.00a68263.css",
+    "main.js": "/Gabriel265/kayce-tutoring/static/js/main.03d81196.js",
+    "static/js/453.b75e604d.chunk.js": "/Gabriel265/kayce-tutoring/static/js/453.b75e604d.chunk.js",
+    "index.html": "/Gabriel265/kayce-tutoring/index.html",
+    "main.00a68263.css.map": "/Gabriel265/kayce-tutoring/static/css/main.00a68263.css.map",
+    "main.03d81196.js.map": "/Gabriel265/kayce-tutoring/static/js/main.03d81196.js.map",
+    "453.b75e604d.chunk.js.map": "/Gabriel265/kayce-tutoring/static/js/453.b75e604d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a68263.css",
+    "static/js/main.03d81196.js"
+  ]
+}
