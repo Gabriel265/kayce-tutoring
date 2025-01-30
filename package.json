@@ -2,7 +2,7 @@
   "name": "kayce-tutoring",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Gabriel265/kayce-tutoring",
+  "homepage": "https://Gabriel265.github.io/kayce-tutoring",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
